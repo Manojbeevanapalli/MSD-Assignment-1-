@@ -1,0 +1,9 @@
+asgiref
+Django
+django-js-asset
+django-mathfilters
+pytz
+sqlparse
+psycopg2
+django-ckeditor
+django-crispy-forms
